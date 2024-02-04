@@ -1,0 +1,14 @@
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\bin\Debug\net8.0\DecToOct.exe
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\bin\Debug\net8.0\DecToOct.deps.json
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\bin\Debug\net8.0\DecToOct.runtimeconfig.json
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\bin\Debug\net8.0\DecToOct.dll
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\bin\Debug\net8.0\DecToOct.pdb
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.AssemblyInfoInputs.cache
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.AssemblyInfo.cs
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.csproj.CoreCompileInputs.cache
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.dll
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\refint\DecToOct.dll
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.pdb
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\DecToOct.genruntimeconfig.cache
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToOct\obj\Debug\net8.0\ref\DecToOct.dll
