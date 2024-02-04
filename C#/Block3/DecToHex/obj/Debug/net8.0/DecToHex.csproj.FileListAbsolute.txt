@@ -1,0 +1,14 @@
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\bin\Debug\net8.0\DecToHex.exe
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\bin\Debug\net8.0\DecToHex.deps.json
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\bin\Debug\net8.0\DecToHex.runtimeconfig.json
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\bin\Debug\net8.0\DecToHex.dll
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\bin\Debug\net8.0\DecToHex.pdb
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.AssemblyInfoInputs.cache
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.AssemblyInfo.cs
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.csproj.CoreCompileInputs.cache
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.dll
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\refint\DecToHex.dll
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.pdb
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\DecToHex.genruntimeconfig.cache
+C:\Users\ivona\OneDrive\Desktop\C#\Block3\DecToHex\obj\Debug\net8.0\ref\DecToHex.dll
