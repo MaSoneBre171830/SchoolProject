@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\bin\Debug\net7.0\NumbersToRomanNumerals.exe
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\bin\Debug\net7.0\NumbersToRomanNumerals.deps.json
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\bin\Debug\net7.0\NumbersToRomanNumerals.runtimeconfig.json
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\bin\Debug\net7.0\NumbersToRomanNumerals.dll
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\bin\Debug\net7.0\NumbersToRomanNumerals.pdb
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.AssemblyInfo.cs
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.dll
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\refint\NumbersToRomanNumerals.dll
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.pdb
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\NumbersToRomanNumerals.genruntimeconfig.cache
+C:\Users\User\Desktop\Neuer Ordner\NumbersToRomanNumerals\NumbersToRomanNumerals\obj\Debug\net7.0\ref\NumbersToRomanNumerals.dll
